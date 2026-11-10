@@ -1,0 +1,167 @@
+[
+  {
+    "key": "spider1",
+    "file": "media/spider1.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spiderman_onesheet_1400x2100.jpg",
+    "page": "https://www.sonypictures.com/movies/spiderman",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "spider2",
+    "file": "media/spider2.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spiderman2_onesheet_1400x2100_0.jpg",
+    "page": "https://www.sonypictures.com/movies/spiderman2",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "spider3",
+    "file": "media/spider3.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spiderman3_onesheet_1400x2100_0.jpg",
+    "page": "https://www.sonypictures.com/movies/spiderman3",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "amazing1",
+    "file": "media/amazing1.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/theamazingspiderman_onesheet_1400x2100.jpg",
+    "page": "https://www.sonypictures.com/movies/theamazingspiderman",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "amazing2",
+    "file": "media/amazing2.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/theamazingspiderman2_onesheet_1400x2100_0.jpg",
+    "page": "https://www.sonypictures.com/movies/theamazingspiderman2",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "homecoming",
+    "file": "media/homecoming.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spidermanhomecoming_onesheet_1400x2100.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanhomecoming",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "farfromhome",
+    "file": "media/farfromhome.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spidermanfarfromhome_onesheet_1400x2100_0.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanfarfromhome",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "nowayhome",
+    "file": "media/nowayhome.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spidermannowayhome_onesheet_1400x2100.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermannowayhome",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "brandnewday",
+    "file": "media/brandnewday.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spidermanbrandnewday_onesheet_1400x2100_1.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanbrandnewday",
+    "size": [
+      2000,
+      3000
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "into",
+    "file": "media/into.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spidermanintothespiderverse_onesheet_1400x2100_2026.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanintothespiderverse",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "across",
+    "file": "media/across.jpg",
+    "url": "https://www.sonypictures.com/sites/default/files/title-key-art/spidermanacrossthespiderverse_onesheet_1400x2100_2026.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanacrossthespiderverse",
+    "size": [
+      1400,
+      2100
+    ],
+    "packaged_size": [
+      1200,
+      1800
+    ]
+  },
+  {
+    "key": "Three Spider-Men action artwork",
+    "file": "media/spider-cover-4k.jpg",
+    "url": "https://wallpapers.com/images/hd/spider-man-no-way-home-3840-x-2160-1aaxsn2hfqo4yg5l.jpg",
+    "page": "https://wallpapers.com/picture/spider-man-no-way-home-3840-x-2160-picture-1aaxsn2hfqo4yg5l.html",
+    "size": [
+      3840,
+      2160
+    ],
+    "credit": "Spider-Man-inspired action artwork via Wallpapers.com. Rights belong to their respective owners."
+  }
+]
