@@ -1,0 +1,157 @@
+[
+  {
+    "id": "spider1",
+    "file": "media/gallery/spider1-action.jpg",
+    "page": "https://cinebasura.blogspot.com/2016/04/spider-man-sam-raimi.html",
+    "url": "https://4.bp.blogspot.com/-krlosY-Q3eA/Vx-qcvoAqiI/AAAAAAAANxM/E0MR3Ui1uVcj-hBrviSwI_V48Aj61V2VwCLcB/s1600/447719-spider-man-2002.jpg",
+    "original": [
+      1600,
+      867
+    ],
+    "size": [
+      1600,
+      867
+    ],
+    "credit": "Spider-Man (2002) film still, via El Bar Cin\u00e9filo. Character and film copyright belong to their respective owners."
+  },
+  {
+    "id": "spider2",
+    "file": "media/gallery/spider2.jpg",
+    "page": "https://www.sonypictures.com/movies/spiderman2",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2019-06/spiderman2_banner_2572x1100_copyright.png",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "spider3",
+    "file": "media/gallery/spider3.jpg",
+    "page": "https://www.sonypictures.com/movies/spiderman3",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2019-06/spiderman3_banner_2572x1100_copyright.png",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "amazing1",
+    "file": "media/gallery/amazing1.jpg",
+    "page": "https://www.sonypictures.com/movies/theamazingspiderman",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2019-06/theamazingspiderman_banner_2572x1100_copyright.png",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "amazing2",
+    "file": "media/gallery/amazing2.jpg",
+    "page": "https://www.sonypictures.com/movies/theamazingspiderman2",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2019-06/theamazingspiderman2_banner_2572x1100_copyright_0.png",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "homecoming",
+    "file": "media/gallery/homecoming.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanhomecoming",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2019-06/theamazingspiderman2_banner_2572x1100_copyright.png",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "farfromhome",
+    "file": "media/gallery/farfromhome.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanfarfromhome",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2019-09/spidermanfarfromhome_banner_2572x1100_copyright_v3.png",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "nowayhome",
+    "file": "media/gallery/nowayhome.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermannowayhome",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2022-02/spidermannowayhome_banner_2572x1100_he.jpg",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "brandnewday",
+    "file": "media/gallery/brandnewday.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanbrandnewday",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2026-10/smbnd_banner_2572x1100_pvod-v3_0.jpg",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "into",
+    "file": "media/gallery/into.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanintothespiderverse",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2019-06/spidermanintothespiderverse_banner_2572x1100_copyright.png",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  },
+  {
+    "id": "across",
+    "file": "media/gallery/across.jpg",
+    "page": "https://www.sonypictures.com/movies/spidermanacrossthespiderverse",
+    "url": "https://www.sonypictures.com/sites/default/files/banner-images/2024-12/Spider-Man_Across_2572x1100_Landing_Page_Digital_BluRay_DVD_V1_1211_08.jpg",
+    "original": [
+      2572,
+      1100
+    ],
+    "size": [
+      2200,
+      941
+    ]
+  }
+]
